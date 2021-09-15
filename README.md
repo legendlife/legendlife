@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  
 - Why don't you DM me the word _Tomato!_ 
 
-### What do I do in my Leisure time!:
+### What do I do in my Leisure time:
 
 - Scuba diving 🤿
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 - Go for a Walk! 🚶🏻‍♂
 
-### Links!:
+### Links:
 
 - [My Discord Server](https://discord.gg/PKnEXp6Hmh)
 
