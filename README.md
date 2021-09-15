@@ -1,4 +1,4 @@
-### Hellow there 🖐 I am Legend also known as Senpai Legend!🏻
+### Hellow there 🖐 I am Legend also known as Senpai Legend!
 
 <!--
 **legendlife/legendlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
