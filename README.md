@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 ### About Me:
 
 - I love creating Discord Bots
-- 
+ 
 - I am currently a student!
-- 
+ 
 - I am learning python and html and other programming languages!
-- 
+ 
 - I love playing onilne multiplayer games!
-- 
+ 
 - I am also a anime weeb! 🤣
-- 
+ 
 - I don't like toxicity!!
 
 ### Contact Me:
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - I am available at Discord!
 
 - Find me at Discord! `SENPAI~LEGEND#5276`
-- 
+ 
 - Why don't you DM me the word _Tomato!_ 
 
 ### What do i do in my Leisure times!:
