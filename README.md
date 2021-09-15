@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  
 - Why don't you DM me the word _Tomato!_ 
 
-### What do i do in my Leisure times!:
+### What do I do in my Leisure time!:
 
 - Scuba diving 🤿
 
