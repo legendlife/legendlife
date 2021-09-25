@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - I am available at Discord!
 
-- Find me at Discord! `SENPAI~LEGEND#5276`
+- Find me at Discord! `Senpai Legend#5276`
  
 - Why don't you DM me the word _Tomato!_ 
 
