@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **Senpai Legend#2808**
+- 📫 How to reach me **Senpai Legend#2808** (Discord)
 
 - ⚡ Fun fact **I play games and go for walk very often!**
 
