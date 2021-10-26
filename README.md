@@ -74,4 +74,4 @@
 </a>
 <a href="https://github.com/legendlife?tab=followers"><img src="https://img.shields.io/github/followers/legendlife?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/legendlife/legendlife/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/legendlife/legendlife?color=lightgray&label=License&style=flat-square"></a>
-
+.
