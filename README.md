@@ -4,7 +4,7 @@
 <h3 align="center">I'm a student and a programmer.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me:
 
 - 🔭 I’m currently working on **A Discord Bot**
 
