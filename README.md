@@ -65,7 +65,7 @@
 <a href = "https://twitter.com/Senpai_Legend99"><img src="https://img.icons8.com/ios-glyphs/60/000000/twitter--v1.png"/></a>
 <a href = "https://discord.gg/PKnEXp6Hmh"><img src="https://img.icons8.com/ios-glyphs/60/000000/discord-logo.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/ios-glyphs/60/000000/youtube-play.png"/></a>
-<a href = "https://devbio.me/u/senpai_legend"><img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png"/></a>
+<a href = "https://devbio.me/u/senpai_legend"><img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-portfolio-advertising-kiranshastry-solid-kiranshastry.png"/></a>
 </p>
 
 ## ❤ Views and Followers:
