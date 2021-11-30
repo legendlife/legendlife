@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working on **A Discord Bot**
+- 🔭 I’m currently working on **A Discord Bot.**
 
 - 🌱 I’m currently learning **Basic Programming Language.**
 
