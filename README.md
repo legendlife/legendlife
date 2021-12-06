@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://mocah.org/uploads/posts/346010-Anime-Boy-Riding-Bicycle-Moon-Night-City-Scenery.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/780366738536792064/917430114655023174/Anime-Laptop-Background-768x432.jpg" height="175px"/></a>
 
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Senpai Legend</h1>
 <h3 align="center">I'm a student and a programmer.</h3>
