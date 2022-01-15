@@ -4,23 +4,21 @@
 <h3 align="center">I'm a student and a programmer.</h3>
 
 
-## 🙋‍♂️ About Me:
+## About Me:
 
-- 🔭 I’m currently working on **A Discord Bot.**
+- 🔭 I’m currently working on **A Website**
 
 - 🌱 I’m currently learning **Basic Programming Language.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **Senpai Legend#0001** (Discord)
+- 📫 Reach me on Discord `Senpai Legend#0001`
 
 - ⚡ Fun fact **I play games and go for walk very often!**
 
-- 🎇 I love **using Discord and working on Discord Bots!** 
+- 🎇 I love working on html and css 
   
 
 
-## 🚀 Things I know / want to learn:
+## Stuffs I know / want to learn:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png"/> </a>
@@ -37,11 +35,11 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-## 🎫 My Readme stats:
+## Readme stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=legendlife&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/legendlife)
 
-## 📊 My Github Stats:
+## Github Stats:
 
   <br/>
     <a href="https://github.com/legendlife"><img alt="SENPAI LEGEND's Github Stats" src="https://github-readme-stats.vercel.app/api?username=legendlife&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -59,7 +57,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Connect:
 <p align="left">
 
 <a href = "https://twitter.com/Senpai_Legend99"><img src="https://img.icons8.com/ios-glyphs/60/000000/twitter--v1.png"/></a>
@@ -68,7 +66,7 @@
 <a href = "https://devbio.me/u/senpai_legend"><img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-portfolio-advertising-kiranshastry-solid-kiranshastry.png"/></a>
 </p>
 
-## ❤ Views and Followers:
+## Views and Followers:
 <a href="https://github.com/legendlife">
     <img src="https://komarev.com/ghpvc/?username=legendlife&?style=flat-square&logo=appveyor">
 </a>
