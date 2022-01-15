@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-## Connect:
+## Connect with me:
 <p align="left">
 
 <a href = "https://twitter.com/Senpai_Legend99"><img src="https://img.icons8.com/ios-glyphs/60/000000/twitter--v1.png"/></a>
