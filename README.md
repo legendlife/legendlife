@@ -43,7 +43,7 @@
 
   <br/>
     <a href="https://github.com/legendlife"><img alt="SENPAI LEGEND's Github Stats" src="https://github-readme-stats.vercel.app/api?username=legendlife&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendlife&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
     
 
 <br/>
@@ -53,7 +53,7 @@
 
 <br/>
 <br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendlife&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Connect with me:
 <p align="left">
 
