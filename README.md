@@ -1,7 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/780366738536792064/917430114655023174/Anime-Laptop-Background-768x432.jpg" height="175px"/></a>
 
-<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Senpai Legend</h1>
-<h3 align="center">I'm a student and a programmer.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hello!+I'm+Senpai+Legend;A+Student+and+a+self-taught+programmar)](https://git.io/typing-svg)
 
 
 ## About Me:
