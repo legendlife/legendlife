@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendlife&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/user=legendlife&theme=holi-theme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me:
 <p align="left">
