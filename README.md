@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hello!+I'm+Senpai+Legend;A+Student+and+a+self-taught+programmar)](https://git.io/typing-svg)
 
 
-## About Me:
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322F7E6&lines=About+me+:)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **A Website**
 
