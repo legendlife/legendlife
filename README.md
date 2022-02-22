@@ -55,7 +55,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendlife&layout=compact)](https://github.com/legendlife)
 
-## Connect with me:
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D9F700&lines=Connect+with+me%3A)](https://git.io/typing-svg)
 <p align="left">
 
 <a href = "https://twitter.com/Senpai_Legend99"><img src="https://img.icons8.com/ios-glyphs/60/000000/twitter--v1.png"/></a>
