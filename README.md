@@ -18,7 +18,7 @@
   
 
 
-## Stuffs I know / want to learn:
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333F78C&lines=Things+I+know%2Fwant+to+learn)](https://git.io/typing-svg)
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png"/> </a>
