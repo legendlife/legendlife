@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hello!+I'm+Senpai+Legend;A+Student+and+a+self-taught+programmar)](https://git.io/typing-svg)
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322F7E6&lines=About+me+:)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322F7E6&lines=About+me:)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **A Website**
 
@@ -18,7 +18,7 @@
   
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333F78C&lines=Things+I+know%2Fwant+to+learn)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333F78C&lines=Things+I+know%2Fwant+to+learn:)](https://git.io/typing-svg)
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png"/> </a>
