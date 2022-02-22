@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hello!+I'm+Senpai+Legend;A+Student+and+a+self-taught+programmar)](https://git.io/typing-svg)
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322F7E6&lines=About+me:)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322F7E6&lines=About+me:)](https://github.com/legendlife)
 
 - 🔭 I’m currently working on **A Website**
 
@@ -18,7 +18,7 @@
   
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333F78C&lines=Things+I+know%2Fwant+to+learn:)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333F78C&lines=Things+I+know%2Fwant+to+learn:)](https://github.com/legendlife)
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png"/> </a>
@@ -35,11 +35,11 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2335F70C&lines=Readme+stats%3A)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2335F70C&lines=Readme+stats%3A)](https://github.com/legendlife)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=legendlife&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/legendlife)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=Github+stats%3A)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=Github+stats%3A)](https://github.com/legendlife)
   <br/>
     <a href="https://github.com/legendlife"><img alt="SENPAI LEGEND's Github Stats" src="https://github-readme-stats.vercel.app/api?username=legendlife&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     
@@ -55,7 +55,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendlife&layout=compact)](https://github.com/legendlife)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D9F700&lines=Connect+with+me%3A)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D9F700&lines=Connect+with+me%3A)](https://github.com/legendlife)
 <p align="left">
 
 <a href = "https://twitter.com/Senpai_Legend99"><img src="https://img.icons8.com/ios-glyphs/60/000000/twitter--v1.png"/></a>
@@ -64,7 +64,7 @@
 <a href = "https://legendlife.github.io/senpai.github.io/"><img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-portfolio-advertising-kiranshastry-solid-kiranshastry.png"/></a>
 </p>
 
-## Views and Followers:
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F79151&lines=Views+and+Followers%3A)](https://github.com/legendlife)
 <a href="https://github.com/legendlife">
     <img src="https://komarev.com/ghpvc/?username=legendlife&?style=flat-square&logo=appveyor">
 </a>
