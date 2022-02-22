@@ -39,8 +39,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=legendlife&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/legendlife)
 
-## Github Stats:
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=Github+stats%3A)](https://git.io/typing-svg)
   <br/>
     <a href="https://github.com/legendlife"><img alt="SENPAI LEGEND's Github Stats" src="https://github-readme-stats.vercel.app/api?username=legendlife&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     
