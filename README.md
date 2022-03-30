@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Basic Programming Language.**
 
-- 📫 Reach me on Discord `Senpai Legend#0001`
+- 📫 Reach me on Discord `Senpai Legend#7307`
 
 - ⚡ Fun fact **I play games and go for walk very often!**
 
