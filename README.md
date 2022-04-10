@@ -1,4 +1,4 @@
-<a href="#"><imgsrc="https://i.pinimg.com/originals/cd/83/e3/cd83e34992570d14493c163c3ff3d42d.gif"></a>
+<a href="#"><img src="https://i.pinimg.com/originals/cd/83/e3/cd83e34992570d14493c163c3ff3d42d.gif"></a>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hello!+I'm+Senpai+Legend;A+Student+and+a+self-taught+programmer)](https://github.com/legendlife)
