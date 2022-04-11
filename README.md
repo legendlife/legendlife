@@ -6,9 +6,9 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322F7E6&lines=About+me:)](https://github.com/legendlife)
 
-- 🔭 I’m currently working on **A Website**
+- 🔭 I’m currently working on **A Webpage**
 
-- 🌱 I’m currently learning **Basic Programming Language.**
+- 🌱 I’m currently learning **Java & Python**
 
 - 📫 Reach me on Discord `Senpai Legend#7307`
 
