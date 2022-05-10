@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java & Python**
 
-- 📫 Reach me on Discord `Senpai Legend#7307`
+- 📫 Reach me on Discord `Qiyuan#8569`
 
 - ⚡ Fun fact **I play games and go for walk very often!**
 
