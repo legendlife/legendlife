@@ -6,36 +6,10 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322F7E6&lines=About+me:)](https://github.com/legendlife)
 
-- 🔭 I’m currently working on **A Webpage**
-
-- 🌱 I’m currently learning **Java & Python**
-
-- 📫 Reach me on Discord `Qiyuan#8569`
-
-- ⚡ Fun fact **I play games and go for walk very often!**
-
-- 🎇 I love working on html and css 
+> Visit my [webpage](https://www.legendlife.github.io)!
   
 
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333F78C&lines=Things+I+know%2Fwant+to+learn:)](https://github.com/legendlife)
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/50/000000/react.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/windows/64/000000/nodejs.png"/> </a>  
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/git.png"/> </a> 
-    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/html-5.png"/> </a>
-     <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/ruby-programming-language.png"/> </a>
-      <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/> </a>
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2335F70C&lines=Readme+stats%3A)](https://github.com/legendlife)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2335F70C&lines=Contribution+stats%3A)](https://github.com/legendlife)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=legendlife&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/legendlife)
 
