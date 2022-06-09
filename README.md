@@ -34,7 +34,7 @@
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-java-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> </a>
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-html-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-css-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> </a>
-<a href="hhttps://www.php.net/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-php-computer-science-flaticons-lineal-color-flat-icons.png"/> </a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-php-computer-science-flaticons-lineal-color-flat-icons.png"/> </a>
 
 </p>
 
