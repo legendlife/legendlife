@@ -13,15 +13,16 @@
 <table width="110%" align="center">
   <tr>
     <td>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=legendlife&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=354D62" />
+<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=legendlife&theme=nord_dark" />
  </td>
- <td> <img height="200 em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendlife&layout=compact&langs_count=100&theme=react&hide_border=true&bg_color=354D62"/> </td>
+ <td> <img height="200 em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=legendlife&theme=nord_dark"/> </td>
+ <td> <img height="200 em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legendlife&theme=nord_dark"/> </td>
   </tr>
  </table>
 
 <table witdth="100%" align="center">
   <tr>
-  <td> <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=legendlife&bg_color=354D62&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  <td> <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legendlife&theme=nord_dark" />
  </td>
   </tr>
 <table>
