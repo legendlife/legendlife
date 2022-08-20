@@ -15,8 +15,14 @@
     <td>
 <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=legendlife&theme=nord_dark" />
  </td>
- <td> <img height="200 em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=legendlife&theme=nord_dark"/> </td>
- <td> <img height="200 em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legendlife&theme=nord_dark"/> </td>
+  </tr>
+ </table>
+<table width="110%" align="center">
+  <tr>
+    <td>
+<td> <img height="200 em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=legendlife&theme=nord_dark"/> </td>
+ <td> <img height="200 em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legendlife&theme=nord_dark"/> </td> 
+ </td>
   </tr>
  </table>
 
