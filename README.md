@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/780366738536792064/963331856512745492/unknown.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/legendlife/legendlife/blob/main/the_wallpaper.png" height="175px"/></a>
 
  
 
