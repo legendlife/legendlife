@@ -10,23 +10,10 @@
 
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=719FB0&lines=Github+stats%3A)
 
-<table width="110%" align="center">
-  <tr>
-    <td>
-<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legendlife&theme=nord_dark" />
- </td>
-  </tr>
- </table>
-<table width="110%" align="center">
-  <tr>
-<td> <img height="200 em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=legendlife&theme=nord_dark"/> </td>
- <td> <img height="200 em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legendlife&theme=nord_dark"/> </td> 
- </td>
-  </tr>
- </table>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legendlife&theme=nord_dark)
 
-<table witdth="100%" align="center">
-  <tr>
-  <td> <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legendlife&theme=nord_dark" /> </td>
-  </tr>
-<table>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=legendlife&theme=nord_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legendlife&theme=nord_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=legendlife&theme=nord_dark)
