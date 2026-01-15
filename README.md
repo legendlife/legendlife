@@ -1,19 +1,35 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/legendlife/legendlife/blob/main/the_wallpaper.png" height="175px"/></a>
+<div align="center">
+  <img src="https://github.com/legendlife/legendlife/blob/main/the_wallpaper.png" alt="Banner" width="100%"/>
+</div>
 
- 
+<h1 align="center">👋 Hey there!</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=50&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hello!)
+<p align="center">
+  <i>Linux enthusiast • Rice lover • Arch user</i>
+</p>
 
-## >_ I am a linux user and I love ricing my system a lot!
-#### >_ I use arch btw <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/25/undefined/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-duo-tal-revivo.png"/>
+---
 
+### 🐧 About Me
 
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=719FB0&lines=Github+stats%3A)
+```bash
+$ neofetch legendlife
+```
+- 💻 I use **Arch Linux** btw
+- 🎨 Passionate about **ricing** and customizing my system
+- ⚡ Always exploring new ways to optimize my workflow
+- 🌱 Learning and experimenting with open source
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legendlife&theme=nord_dark)
+### 📫 Connect
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=legendlife&theme=nord_dark)
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=legendlife&color=blue&style=flat-square)
+  
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legendlife&theme=nord_dark)
+---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=legendlife&theme=nord_dark)
+<div align="center">
+  <i>⚡ Keep it simple, keep it fast ⚡</i>
+</div>
