@@ -13,7 +13,7 @@
 <table width="110%" align="center">
   <tr>
     <td>
-<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=legendlife&theme=nord_dark" />
+<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legendlife&theme=nord_dark" />
  </td>
   </tr>
  </table>
