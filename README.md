@@ -13,7 +13,10 @@
 ### 🐧 About Me
 
 ```bash
-$ neofetch legendlife
+$ whoami
+legendlife
+$ uname -a
+Arch Linux
 ```
 - 💻 I use **Arch Linux** btw
 - 🎨 Passionate about **ricing** and customizing my system
