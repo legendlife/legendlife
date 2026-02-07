@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hey there!</h1>
 
 <p align="center">
-  <i>Linux enthusiast • Rice lover • Arch user</i>
+  <i>Linux enthusiast • Active ricer • Arch user</i>
 </p>
 
 ---
